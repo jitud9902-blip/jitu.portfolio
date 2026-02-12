@@ -1,0 +1,15 @@
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-left: 270px;
+}
+
+.photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(47, 47, 97);
+    
+} 

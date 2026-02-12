@@ -1,0 +1,22 @@
+.clg{
+ border: 1px solid wheat;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ width: 800px ;
+  background: linear-gradient(135deg, #05010d, #1a103d, #3b1c6e);
+margin: 20px;
+}
+.edu-part{
+    display: flex;
+     justify-content: center; 
+     align-items: center;
+     flex-direction: column;
+    margin-top: 90px;
+    color: aliceblue;
+    margin: 20px;
+    
+}
+.Edu-let{
+    color:#692bcd;
+}

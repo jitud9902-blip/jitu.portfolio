@@ -1,0 +1,72 @@
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(
+    to bottom,
+    #455657 0%,
+    #000000 15%,
+    #0a1a3f 100%
+  );
+
+  font-size: clamp(14px, 1.2vw, 18px);
+  line-height: 1.6;
+
+
+}
+.container{
+    background-color: #191c21;
+}
+.hero-section{
+    margin-top: 65px;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+.social{
+  display: flex;
+  gap: 20px; 
+}
+
+.shape {
+  width: 250px;
+  height: 250px;
+  background: #121a73;   
+  border-radius: 50%;    
+  overflow: hidden;      
+}
+
+.shape img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   
+
+}
+
+.about-me{
+  width: 250px;
+  height: 250px;
+  background: #121a73;   
+  border-radius: 50%;    
+  overflow: hidden; 
+  margin: 5px;     
+}
+
+.about-me img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   
+
+}
+.second-sec{
+  display: flex;
+  justify-content: flex-start;
+  
+   align-items: center;
+   background-color: #141c2f;
+   margin-left: 101px;
+   margin-right: 101px;
+   margin-top: 2px;
+}

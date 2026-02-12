@@ -1,0 +1,21 @@
+.cv-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   margin-left: 105px;
+   margin-right: 105px;
+   margin-top: 20px;
+    background: linear-gradient(135deg, #05010d, #1a103d, #3b1c6e);
+    height: 600px;
+    
+    
+}
+.ins{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+
+} 
+
+
+

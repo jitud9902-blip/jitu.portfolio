@@ -15,7 +15,7 @@ function Navbar() {
                         <Link to={"education"} style={{textDecoration:"none"}}> <i className="bi bi-book-half"></i> Education</Link>
                     </div>
                     <div className="col-1">
-                        <Link to={"contact"} style={{textDecoration:"none"}}> <i className="bi bi-telephone"></i>Resume</Link>
+                        <Link to={"resume"} style={{textDecoration:"none"}}> <i className="bi bi-telephone"></i>Resume</Link>
                     </div>
                     {/* <div className="col-2">
                         <Link to={"service"} style={{textDecoration:"none"}}> <i className="bi bi-bicycle"></i> Services</Link>

@@ -4,7 +4,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./assets/Pages/Home";
 import Education from './assets/Pages/Education';
 import Csc from "./assets/Pages/Csc";
-import Iti from "./assets/Pages/Iti";
+import Iti from "./assets/Pages/Lt";
 import Wb from "./assets/Pages/Wb";
 import Navbar from "./assets/Components/Navbar"
 

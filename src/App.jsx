@@ -1,16 +1,16 @@
 
 
 import { Routes, Route } from "react-router-dom";
-import Home from "./assets/Pages/Home";
-import Service from "./assets/Pages/Service";
-import Demo from "./assets/Pages/Demo";
+import Home from "./Pages/Home";
+import Service from "./Pages/Service";
+import Demo from "./Pages/Demo";
 
 import Navbar from "./assets/Components/Navbar";
-import Education from "./assets/Pages/Education";
-import Wb from "./assets/Pages/Wb";
+import Education from "./Pages/Education";
+import Wb from "./Pages/Wb";
 import "./App.css"
-import Csc from "./Csc";
-import Iti from "./Iti";
+import Csc from "./assets/Pages/Csc";
+import Iti from "./assets/Pages/Iti";
 function App() {
   return (
     <>

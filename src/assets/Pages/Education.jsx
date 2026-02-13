@@ -1,4 +1,4 @@
-import "/assets/Css/Education.css"
+import "./Education.css"
 import { Link } from "react-router-dom"
 
 function Education() {

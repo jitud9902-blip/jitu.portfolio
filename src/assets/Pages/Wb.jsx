@@ -6,7 +6,7 @@ import { FaReact } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { SiMysql } from "react-icons/si";
-import '/assets/Css/Wb.css'
+import "./Wb.css"
 import { CiStar } from "react-icons/ci";
 
 function Wb() {

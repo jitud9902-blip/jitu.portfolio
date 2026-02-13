@@ -7,7 +7,7 @@ import Csc from "./assets/Pages/Csc";
 import Iti from "./assets/Pages/Iti";
 import Wb from "./assets/Pages/Wb";
 import Navbar from "./assets/Components/Navbar"
-import Service from "./assets/Pages/Service";
+
 
 import "./App.css"
 function App() {
@@ -22,7 +22,7 @@ function App() {
         <Route path="/" element={<Home />} />
         
         <Route path="/education" element={<Education/>} />
-        <Route path="/service" element={<Service />} />
+     
       
         
          <Route path="/scs" element={<Csc/>}/>

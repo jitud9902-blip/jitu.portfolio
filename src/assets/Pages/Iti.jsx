@@ -1,4 +1,4 @@
-import '/assets/Css/iti.css'
+import './iti.css'
 
 function Iti() {
   return (

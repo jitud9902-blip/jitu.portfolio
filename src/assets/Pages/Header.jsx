@@ -1,4 +1,4 @@
-import '/assets/Css/Header.css'
+import './Header.css'
 import TextType from '../Components/Texttype'
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";

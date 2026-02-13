@@ -1,5 +1,5 @@
 import './Header.css'
-import TextType from '../Components/Texttype'
+
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa6";
@@ -19,7 +19,7 @@ function Header() {
 {/* st */}
 
 
-
+{/* 
 <TextType 
   text={["Hello , its me Jitendra das, and i am a python developer with a full Stact developer "]}
   typingSpeed={75}

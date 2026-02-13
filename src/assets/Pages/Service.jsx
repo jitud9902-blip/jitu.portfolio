@@ -1,4 +1,4 @@
-import "./Service.css"
+import "/assets/css/Service.css"
 
 
 function Service() {

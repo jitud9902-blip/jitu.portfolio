@@ -1,22 +1,22 @@
-import "./Contact.css"
+// import "./Contact.css"
 
-function contact() {
-  return (
-    <div>
-      <div className="ima">
-        <img src="/resume.png">
-        </img>
+// function Contact() {
+//   return (
+//     <div>
+//       <div className="ima">
+//         <img src="/resume.png">
+//         </img>
         
-        <a href="/resume.png" download> 
-        <button  className="btn btn-primary"> Download</button>
-        </a>
+//         <a href="/resume.png" download> 
+//         <button  className="btn btn-primary"> Download</button>
+//         </a>
 
-      </div>
+//       </div>
 
    
 
-    </div>
-  )
-}
+//     </div>
+//   )
+// }
 
-export default contact
+// export default Contact

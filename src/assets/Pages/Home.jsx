@@ -1,5 +1,5 @@
 
-import Header from "../assets/Components/Header"
+import Header from "../Components/Header"
 
 import Wb from "./Wb"
 

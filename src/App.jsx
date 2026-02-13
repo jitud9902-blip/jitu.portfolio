@@ -1,37 +1,35 @@
 
 
 import { Routes, Route } from "react-router-dom";
-import Home from "./Pages/Home";
-import Service from "./Pages/Service";
-import Demo from "./Pages/Demo";
-
-import Navbar from "./assets/Components/Navbar";
-import Education from "./Pages/Education";
-import Wb from "./Pages/Wb";
-import "./App.css"
+import Home from "./assets/Pages/Home";
+import Education from './assets/Pages/Education';
 import Csc from "./assets/Pages/Csc";
 import Iti from "./assets/Pages/Iti";
+import Wb from "./assets/Pages/Wb";
+import Navbar from "./assets/Components/Navbar"
+import Service from "./assets/Pages/Service";
+
+import "./App.css"
 function App() {
   return (
     <>
 
 
    
-      <Navbar />
-
+    <Navbar/>
+ 
       <Routes>
         <Route path="/" element={<Home />} />
         
         <Route path="/education" element={<Education/>} />
         <Route path="/service" element={<Service />} />
       
-         <Route path="/demo" element={<Demo />} />
+        
          <Route path="/scs" element={<Csc/>}/>
          <Route path="/iti" element={<Iti/>}/> 
          <Route path="/wb" element={<Wb/>}/> 
       </Routes>
-         
-         
+        
 
 
     </>

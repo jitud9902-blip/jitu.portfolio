@@ -10,7 +10,7 @@ function Education() {
 
                     <Link to="/wb" style={{ textDecoration: "none" }}>
                         <div style={{ padding: "20px", border: "1px solid black" }}>
-                            <h2> Full stack Web Development<i class="bi bi-laptop"></i> </h2>
+                            <h2> Full stack Web Development<i className="bi bi-laptop"></i> </h2>
                             <h4> Sky skill Academy</h4>
                         </div>
                     </Link>
@@ -26,7 +26,7 @@ function Education() {
 
                     <Link to="/scs" style={{ textDecoration: "none" }}>
                         <div style={{ padding: "20px", border: "1px solid black" }}>
-                            <h2> Computer science And Engineering<i class="bi bi-laptop"></i> </h2>
+                            <h2> Computer science And Engineering<i className="bi bi-laptop"></i> </h2>
                             <h4> Soro School of Engineering </h4>
                         </div>
                     </Link>

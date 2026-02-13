@@ -4,8 +4,8 @@ function Csc() {
   return (
     <div>
 
-      <div style={{marginLeft:"30%",marginTop:"80px"}}>
-        <p style={{ color: "white" }}>
+      <div style={{marginLeft:"30%",marginTop:"80px", color:"white"}}>
+        
           <ul>
             <h3>Education</h3>
             <li>✡️ Diploma in Computer Science Engineering</li>
@@ -19,7 +19,7 @@ function Csc() {
           </ul>
 
 
-        </p>
+      
       </div>
     </div>
   )

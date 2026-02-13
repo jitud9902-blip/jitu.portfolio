@@ -1,18 +1,11 @@
-
-import Header from "../assets/Components/Header"
-
+import Header from "./Header"
 import Wb from "./Wb"
-
-
-
-
 function Home() {
   return (
     <>
-    <Header/>
+ <Header/>
+ <Wb/>
   
-      <Wb/>
-    
 
    
 
